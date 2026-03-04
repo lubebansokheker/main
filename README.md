@@ -1,4 +1,4 @@
-### How to install
+## How to install
 
 ```
 pkg update && pkg upgrade -y
